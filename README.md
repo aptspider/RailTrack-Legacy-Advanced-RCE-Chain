@@ -36,6 +36,15 @@ Your goal: Start from zero access, find the hidden entry point, and achieve full
 
 ---
 
+
+Disclaimer
+
+This application contains intentional security vulnerabilities.
+
+    Do NOT run this application on a public server or production environment.
+
+    Use only for educational purposes and authorized testing.
+
 ## 🛠️ Tech Stack
 
 - **Node.js** (v14+)
